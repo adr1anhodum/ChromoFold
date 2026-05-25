@@ -1,3 +1,3 @@
 Chromofold predicts fluorescent protein optical properties (emission wavelenght, brightness) based on amino acid sequence and chromophore SMILES as input. It relies on a Multi-Layer Perceptron trained on protein structure/sequence, chromophore SMILES and several other physical properties of a set of 122 proteins available at the [Fluorescent Protein Database](https://www.fpbase.org/).
-![](https://github.com/adr1anhodum/ChromoFold/Task.svg)
+![](https://raw.githubusercontent.com/adr1anhodum/ChromoFold/main/Task.svg)
 The ChromoFold project is composed of two sub-projects using 2D / 3D representation of fluorescent proteins, respectively. To access the 2D sub-projcet, please go to [the ChromoFold 2D repo](https://github.com/GajdaMJ/Chromofold_2D). To access the 3D sub-project, please go to [ChromoFold 3d repo](https://github.com/ameliefeh/ChromoFold_3D). 
