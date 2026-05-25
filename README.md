@@ -1,0 +1,1 @@
+The ChromoFold project is composed of two sub-projects using 2D / 3D representation of fluorescent proteins, respectively. To access the 2D sub-projcet, please go to [ChromoFold_2D_repo](https://github.com/GajdaMJ/Chromofold_2D). To access the 3D sub-project, please go to [ChromoFold_3D_repo](https://github.com/ameliefeh/ChromoFold_3D). 
